@@ -9,3 +9,8 @@
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTG_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_box.png"></td></tr> <tr><td>PRE</td><td>LTG</td><td>ATG</td></tr> </table>
 <table><tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUD_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_box.png"></td></tr> <tr><td>AUD</td><td>TRE</td><td>SOS</td></tr> </table>
+
+# Efficiency Gap Histograms
+
+<table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTG_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_box.png"></td></tr> <tr><td>PRE</td><td>LTG</td><td>ATG</td></tr> </table>
+<table><tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUD_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_box.png"></td></tr> <tr><td>AUD</td><td>TRE</td><td>SOS</td></tr> </table>
