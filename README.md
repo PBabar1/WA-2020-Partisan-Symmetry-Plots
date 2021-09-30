@@ -43,6 +43,11 @@
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_6_orless.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_exactly7.png"></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS8ormore.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_mms.png'></td></tr><tr><td>SOS <=6 seats</td><td>SOS ==7 Seats</td><td>SOS 8 or more Seats</td><td>SOS mms</td></tr></table>
 
+# Dual graphs for the 4 Proposed Plans
+
+
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Fain_proposed_plan.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Walkinshaw_proposed_plan.png'></td></tr><tr><td>PRS 4 proposed plans Boxplots</td><td>LTG 4 proposed plans Boxplots</td></tr></table>
+
 # Boxplot Districts with 4 proposed plans plotted 
 
 <table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_4proposed_boxes.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTG_4proposed_boxes.png'></td></tr><tr><td>PRS 4 proposed plans Boxplots</td><td>LTG 4 proposed plans Boxplots</td></tr></table>
