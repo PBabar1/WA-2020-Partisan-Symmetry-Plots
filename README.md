@@ -42,3 +42,12 @@
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_6_orless.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_exactly7.png"></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_mms.png'></td></tr><tr><td>TRE <=6 seats</td><td>TRE ==7 Seats</td><td>TRE mms</td></tr></table>
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_6_orless.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_exactly7.png"></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS8ormore.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_mms.png'></td></tr><tr><td>SOS <=6 seats</td><td>SOS ==7 Seats</td><td>SOS 8 or more Seats</td><td>SOS mms</td></tr></table>
+
+# Boxplot Districts with 4 proposed plans plotted 
+
+
+
+# Mean-Median Scores with 4 proposed plans scores
+
+
+
