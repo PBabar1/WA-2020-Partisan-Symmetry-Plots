@@ -46,7 +46,9 @@
 # Dual graphs for the 4 Proposed Plans
 
 
-<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Fain_proposed_plan.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Walkinshaw_proposed_plan.png'></td></tr><tr><td>PRS 4 proposed plans Boxplots</td><td>LTG 4 proposed plans Boxplots</td></tr></table>
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Fain_proposed_plan.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Walkinshaw_proposed_plan.png'></td></tr><tr><td>Fain</td><td>Walkinshaw</td></tr></table>
+
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Graves_proposed_plan.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Sims_proposed_plan.png'></td></tr><tr><td>Graves</td><td>Sims</td></tr></table>
 
 # Boxplot Districts with 4 proposed plans plotted 
 
