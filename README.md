@@ -23,11 +23,11 @@
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_fewer_seats.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_hmss.png"></td></tr> <tr><td>ATG fewer seats</td><td>ATG hmss</td></tr> </table>
 
-<table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUDfewer_seats.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUD_hmss.png"></td></tr> <tr><td>AUD fewer seats</td><td>AUD hmss</td></tr> </table>
+<table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUD_fewer_seats.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUD_hmss.png"></td></tr> <tr><td>AUD fewer seats</td><td>AUD hmss</td></tr> </table>
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_fewer_seats.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_hmss.png"></td></tr> <tr><td>TRE fewer seats</td><td>TRE hmss</td></tr> </table>
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_fewer_seats.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_hmss.png"></td></tr> <tr><td>SOS fewer seats</td><td>SOS hmss</td></tr> </table>
 
-# <=6, ==7, 8<= Seats
+# <=6 Seats, ==7 Seats, 8<= Seats
 
