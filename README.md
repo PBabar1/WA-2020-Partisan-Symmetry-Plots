@@ -45,10 +45,18 @@
 
 # Boxplot Districts with 4 proposed plans plotted 
 
-<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_4proposed_boxes.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTG_4proposed_boxes.png'></td></tr><tr><td>PRS 4 proposed plans</td><td>LTG 4 proposed plans</td></tr></table>
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_4proposed_boxes.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTG_4proposed_boxes.png'></td></tr><tr><td>PRS 4 proposed plans Boxplots</td><td>LTG 4 proposed plans Boxplots</td></tr></table>
+
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_4proposed_boxes.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUD_4proposed_boxes.png'></td></tr><tr><td>ATG 4 proposed plans Boxplots</td><td>AUD 4 proposed plans Boxplots</td></tr></table>
+
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_4proposed_boxes.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_4proposed_boxes.png'></td></tr><tr><td>TRE 4 proposed plans Boxplots</td><td>SOS 4 proposed plans Boxplots</td></tr></table>
 
 
 # Mean-Median Scores with 4 proposed plans scores
 
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_4proposed_MMS.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTG_4proposed_MMS.png'></td></tr><tr><td>PRS 4 proposed plans MMS</td><td>LTG 4 proposed plans MMS</td></tr></table>
 
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_4proposed_MMS.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUD_4proposed_MMS.png'></td></tr><tr><td>ATG 4 proposed plans MMS</td><td>AUD 4 proposed plans MMS</td></tr></table>
+
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_4proposed_MMS.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_4proposed_MMS.png'></td></tr><tr><td>TRE 4 proposed plans MMS</td><td>SOS 4 proposed plans MMS</td></tr></table>
 
