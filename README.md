@@ -1,21 +1,21 @@
 # WA-2020-Partisan-Symmetry-Plots
 
-# Mean-Median Score Plots 
+## Mean-Median Score Plots 
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRSmm_hist.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOSmm_hist.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TREmm_hist.png"></td></tr> <tr><td>PRE</td><td>SOS</td><td>TRE</td></tr> </table>
 <table><tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATGmm_hist.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTGmm_hist.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUDmm_hist.png"></td></tr> <tr><td>ATG</td><td>LTG</td><td>AUD</td></tr> </table>
 
-# Boxplots for Seats 
+## Boxplots for Seats 
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTG_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_box.png"></td></tr> <tr><td>PRE</td><td>LTG</td><td>ATG</td></tr> </table>
 <table><tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUD_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_box.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_box.png"></td></tr> <tr><td>AUD</td><td>TRE</td><td>SOS</td></tr> </table>
 
-# Efficiency Gap Histograms
+## Efficiency Gap Histograms
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRSeg_hist.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTGeg_hist.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATGeg_hist.png"></td></tr> <tr><td>PRE</td><td>LTG</td><td>ATG</td></tr> </table>
 <table><tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/AUDeg_hist.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TREeg_hist.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOSeg_hist.png"></td></tr> <tr><td>AUD</td><td>TRE</td><td>SOS</td></tr> </table>
 
-# Fewer Seats (mms < .01)
+## Fewer Seats (mms < .01)
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_fewer_seats.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_hmss.png"></td></tr> <tr><td>PRS fewer seats</td><td>PRS hmss</td></tr> </table>
 
@@ -29,7 +29,7 @@
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_fewer_seats.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_hmss.png"></td></tr> <tr><td>SOS fewer seats</td><td>SOS hmss</td></tr> </table>
 
-# <=6 Seats, ==7 Seats, 8<= Seats
+## <=6 Seats, ==7 Seats, 8<= Seats
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_6_orless.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_exactly7.png"></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS8ormore.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_mms.png'></td></tr><tr><td>PRS <=6 seats</td><td>PRS ==7 Seats</td><td>PRS 8 or more Seats</td><td>PRS mms</td></tr></table>
 
@@ -43,14 +43,16 @@
 
 <table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_6_orless.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_exactly7.png"></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS8ormore.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_mms.png'></td></tr><tr><td>SOS <=6 seats</td><td>SOS ==7 Seats</td><td>SOS 8 or more Seats</td><td>SOS mms</td></tr></table>
 
-# Dual graphs for the 4 Proposed Plans
+# 2020 Proposed Plans Analysis
+
+## Dual graphs for the 4 Proposed Plans
 
 
 <table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Fain_proposed_plan.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Walkinshaw_proposed_plan.png'></td></tr><tr><td>Fain</td><td>Walkinshaw</td></tr></table>
 
 <table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Graves_proposed_plan.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Sims_proposed_plan.png'></td></tr><tr><td>Graves</td><td>Sims</td></tr></table>
 
-# Boxplot Districts with 4 proposed plans plotted 
+## Boxplot Districts with 4 proposed plans plotted 
 
 <table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_4proposed_boxes.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTG_4proposed_boxes.png'></td></tr><tr><td>PRS 4 proposed plans Boxplots</td><td>LTG 4 proposed plans Boxplots</td></tr></table>
 
@@ -59,7 +61,7 @@
 <table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_4proposed_boxes.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_4proposed_boxes.png'></td></tr><tr><td>TRE 4 proposed plans Boxplots</td><td>SOS 4 proposed plans Boxplots</td></tr></table>
 
 
-# Mean-Median Scores with 4 proposed plans scores
+## Mean-Median Scores with 4 proposed plans scores
 
 <table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/PRS_4proposed_MMS.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/LTG_4proposed_MMS.png'></td></tr><tr><td>PRS 4 proposed plans MMS</td><td>LTG 4 proposed plans MMS</td></tr></table>
 
