@@ -31,3 +31,4 @@
 
 # <=6 Seats, ==7 Seats, 8<= Seats
 
+<table> <tr><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_6_orless.png"></td><td><img src="https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_exactly7.png"></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG8ormore.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/ATG_mms.png'></td></tr></table>
