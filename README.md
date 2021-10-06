@@ -69,3 +69,14 @@
 
 <table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/TRE_4proposed_MMS.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SOS_4proposed_MMS.png'></td></tr><tr><td>TRE 4 proposed plans MMS</td><td>SOS 4 proposed plans MMS</td></tr></table>
 
+## Partisan Expected outcomes
+
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/SPartisan.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/WPartisan.png'></td></tr><tr><td>Sims</td><td>Walkinshaw</td></tr></table>
+
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/FPartisan.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/GPartisan.png'></td></tr><tr><td>Fain</td><td>Graves</td></tr></table>
+
+## Non-White Populations in districts
+
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Snonwhite.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Wnonwhite.png'></td></tr><tr><td>Sims</td><td>Walkinshaw</td></tr></table>
+
+<table> <tr><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Fnonwhite.png'></td><td><img src='https://github.com/PBabar1/WA-2020-Partisan-Symmetry-Plots/blob/main/Gnonwhite.png'></td></tr><tr><td>Fain</td><td>Graves</td></tr></table>
