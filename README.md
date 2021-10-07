@@ -45,6 +45,8 @@
 
 # 2020 Proposed Plans Analysis
 
+#### https://www.redistricting.wa.gov/proposed-congressional-maps
+
 ## Dual graphs for the 4 Proposed Plans
 
 
